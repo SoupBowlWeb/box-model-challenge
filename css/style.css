@@ -19,6 +19,7 @@ h3 {
 #paragraph1 {
 	background-color: hotpink;
 	border: 5px solid blue;
+	margin-top: 10px;
 }
 
 #paragraph2 {
